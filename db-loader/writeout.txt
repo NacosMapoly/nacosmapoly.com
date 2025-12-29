@@ -1,0 +1,13 @@
+INSERT INTO users(id,firstname,lastname,othername,email,level,gender) VALUES('101965ce82dfb8594','SHOTAYO','SAMSON','OLUMIDE','shotayosamson@gmail.com','19/69/0116','HND II','Male
+'),('618365ce82dfb85b6','Lawal ','Abdulwasiu ','Oladimeji ','Wasiutosin311@gmail.com ','19/69/0065','HND II','Male
+'),('820465ce82dfb85be','OJO','Adedayo ','Amos ','Adedayoojo43@gmail.com','22/105/01/F/0096','ND II','Male
+'),('800265ce82dfb85cb','Adebiyi','Abdulsamod','Akorede','adebiyiabdulsamod@gmail.com','19/69/0081','HND II','Male
+'),('492265ce82dfb85d3','Akinola','Sodiq','Oluwadamilare','akinolasodiq28@gmail.com','19/69/0164','HND II','Male
+'),('919265ce82dfb85da','Busari ','Opeyemi ','Barakat ','Opeyemibusari24@gmail.com','19/85/0032','HND II','Female
+'),('429265ce82dfb85e9','Fenuyi','Oreoluwa ','Ifetayo ','fenuyioreoluwa@gmail.com','19/69/0292','HND II','Female
+'),('641865ce82dfb85f0','ADEOSUN ','QUADRI','ADEBAYO ','Olamidequadri849@gmail.com','22/305/01/f/0009','HND II','Male
+'),('575665ce82dfb85f7','Adejimi ','Adekunle ','Daniel','Adekunleadejimi2@gmail.com','22/105/01/p/0170','ND II','Male
+'),('425465ce82dfb85fe','Oladapo','Kehinde','Awahu ','Oladapokehinde542@gmail.com','19/69/0054','HND II','Female
+'),('334465ce82dfb8606','Sulaimon','Temilade','Fatia','Sulaimontemladefathia@gmail.com','22/105/01/p/065','ND II','Female
+'),('529065ce82dfb860d','Akande','Oluwaseun ','Boluwatife ','akandeoluwaseun211@gmail.com','22/105/01/F/0092','ND II','Male
+'),('228465ce82dfb8623','Dickson ','Joshua ','Temitayo ','Joshuaneymar202@gmail.com','22/105/01/F/0101','ND II','Male')

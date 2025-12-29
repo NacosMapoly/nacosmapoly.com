@@ -1,0 +1,6 @@
+[03-Apr-2025 11:14:05 UTC] PHP Warning:  fopen(c:/xampp/htdocs/db-loader/records.csv): Failed to open stream: No such file or directory in /home/mapolynacos/public_html/db-loader/loader.php on line 16
+[03-Apr-2025 11:14:05 UTC] PHP Fatal error:  Uncaught TypeError: feof(): Argument #1 ($stream) must be of type resource, bool given in /home/mapolynacos/public_html/db-loader/loader.php:18
+Stack trace:
+#0 /home/mapolynacos/public_html/db-loader/loader.php(18): feof(false)
+#1 {main}
+  thrown in /home/mapolynacos/public_html/db-loader/loader.php on line 18
